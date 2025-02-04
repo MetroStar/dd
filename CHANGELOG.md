@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-### [1.2.0] (https://github.com/plus3it/repo-template/releases/tag/1.2.0)
+### [1.2.0] (https://github.com/MetroStar/repo-template/releases/tag/1.2.0)
 
 **Summary**:
 

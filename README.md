@@ -3,7 +3,7 @@ Generic repo template for Plus3IT repositories
 
 To use this template:
 
-1. Select the green "Use this template" button, or [click here](https://github.com/plus3it/repo-template/generate).
+1. Select the green "Use this template" button, or [click here](https://github.com/MetroStar/repo-template/generate).
 2. Select the repo Owner, give the repo a name, enter a description, select Public or Private, and click "Create repository from template".
 3. Clone the repository and create a new branch.
 4. Edit the following files to customize them for the new repository:
